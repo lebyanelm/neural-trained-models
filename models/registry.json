@@ -1,0 +1,7 @@
+{
+    "sports": {
+        "premier_league": {
+            "latest": "https://github.com/lebyanelm/neural-trained-models/raw/main/models/eng_prem_league-v1.0-trained.tflite"
+        }
+    }
+}
