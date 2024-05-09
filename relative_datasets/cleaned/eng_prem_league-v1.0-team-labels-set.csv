@@ -1,12 +1,16 @@
 TeamName,Encoding
 Everton,0
 Wolves,1
+Wolverhampton,1
+Wolverhampton Wanderers,1
 Arsenal,2
 Tottenham,3
+Tottenham Hotspur,3
 Hull,4
 Sheffield Weds,5
 Blackburn,6
 Nott'm Forest,7
+Nottingham Forest,7
 Leeds,8
 West Brom,9
 Middlesbrough,10
@@ -21,9 +25,13 @@ Barnsley,18
 Bristol City,19
 Leicester,20
 Man United,21
+Man Utd,21
+Manchester Utd,21
+Manchester United,21
 Aston Villa,22
 Norwich,23
 Sheffield United,24
+Sheffield Utd,24
 Luton,25
 Brentford,26
 Cardiff,27
