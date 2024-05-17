@@ -1,4 +1,4 @@
-id,day,month,year,weekday,hour,minute,matchday,status,leagueName,leagueId,leagueType,stage,homeName,homeId,awayName,awayId,scoreHomeHt,scoreAwayHt,scoreHomeFt,scoreAwayFt
+,day,month,year,weekday,hour,minute,matchday,status,leagueName,leagueId,leagueType,stage,homeName,homeId,awayName,awayId,scoreHomeHt,scoreAwayHt,scoreHomeFt,scoreAwayFt
 436298,6,5,2024,1,19,0,36.0,FINISHED,Premier League,2021,LEAGUE,REGULAR_SEASON,Crystal Palace,354,Man United,66,2,0,4,0
 436306,11,5,2024,6,11,30,37.0,FINISHED,Premier League,2021,LEAGUE,REGULAR_SEASON,Fulham,63,Man City,65,0,1,0,4
 436312,11,5,2024,6,14,0,37.0,FINISHED,Premier League,2021,LEAGUE,REGULAR_SEASON,Wolverhampton,76,Crystal Palace,354,0,2,1,3
