@@ -1,0 +1,28 @@
+{
+    "root": "https://pub-ba4661e63af44a79ad77bca3e90d5408.r2.dev",
+    "models": {
+        "premier_league": {
+            "win_outcome": {
+                "model": "premier_league-v1.0-win_outcome.joblib",
+                "transformer": "premier_league-v1.0-win_outcome-transformer.joblib",
+                "params": {
+                    "C": 0.1,
+                    "class_weight": null,
+                    "dual": false,
+                    "fit_intercept": true,
+                    "intercept_scaling": 1,
+                    "l1_ratio": null,
+                    "max_iter": 100,
+                    "multi_class": "auto",
+                    "n_jobs": null,
+                    "penalty": "l2",
+                    "random_state": null,
+                    "solver": "lbfgs",
+                    "tol": 0.0001,
+                    "verbose": 0,
+                    "warm_start": false
+                }
+            }
+        }
+    }
+}

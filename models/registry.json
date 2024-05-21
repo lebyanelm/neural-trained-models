@@ -1,8 +1,0 @@
-{
-    "root": "https://pub-ba4661e63af44a79ad77bca3e90d5408.r2.dev",
-    "sports": {
-        "premier_league": {
-            "latest": "eng_prem_league-v1.0-trained.tflite"
-        }
-    }
-}

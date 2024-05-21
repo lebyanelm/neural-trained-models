@@ -11,7 +11,7 @@ from sklearn.decomposition import PCA
 
 
 """Loading datasets"""
-data_points = pd.read_csv("./datasets/train_data.csv").dropna().drop_duplicates().reset_index(drop=True)
+data_points = pd.read_csv("../datasets/train_data.csv").dropna().drop_duplicates().reset_index(drop=True)
 data_points = data_points.loc[data_points.outcome != -1.0]
 outcomes = data_points.pop("outcome").values.reshape((-1))
 print(data_points)
