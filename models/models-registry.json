@@ -1,5 +1,5 @@
 {
-    "root": "https://pub-ba4661e63af44a79ad77bca3e90d5408.r2.dev",
+    "root": "https://raw.githubusercontent.com/lebyanelm/neural-trained-models/main/models/",
     "models": {
         "premier_league": {
             "win_outcome": {
