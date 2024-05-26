@@ -1,12 +1,12 @@
 {
     "root": "https://raw.githubusercontent.com/lebyanelm/neural-trained-models/main/models/",
     "models": {
-        "premier_league": {
-            "win_outcome": {
-                "model": "premier_league-v1.0-win_outcome.joblib",
-                "transformer": "premier_league-v1.0-win_outcome-transformer.joblib",
+        "all_leagues": {
+            "fulltime_win_outcome": {
+                "model": "all_leagues-v1.0-fulltime_win_outcome.joblib",
+                "transformer": "all_leagues-v1.0-fulltime_win_outcome-transformer.joblib",
                 "params": {
-                    "C": 0.1,
+                    "C": 1,
                     "class_weight": null,
                     "dual": false,
                     "fit_intercept": true,
