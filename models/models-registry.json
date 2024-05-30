@@ -4,6 +4,10 @@
         "fulltime_win_outcome": {
             "model": "fulltime_win_outcome-v1.0-model.joblib",
             "transformer": "fulltime_win_outcome-v1.0-transformer.joblib"
+        },
+        "fulltime_draw_outcome": {
+            "model": "fulltime_draw_outcome-v1.0-model.joblib",
+            "transformer": "fulltime_draw_outcome-v1.0-transformer.joblib"
         }
     }
 }
