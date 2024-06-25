@@ -1,13 +1,26 @@
 {
     "root": "https://raw.githubusercontent.com/lebyanelm/neural-trained-models/main/models/",
     "models": {
-        "fulltime_win_outcome": {
-            "model": "fulltime_win_outcome-v1.0-model.joblib",
-            "transformer": "fulltime_win_outcome-v1.0-transformer.joblib"
-        },
-        "fulltime_draw_outcome": {
-            "model": "fulltime_draw_outcome-v1.0-model.joblib",
-            "transformer": "fulltime_draw_outcome-v1.0-transformer.joblib"
+        "ZAR=X": {
+            "model": "ZAR=X-1v-BUYSELL.joblib",
+            "transformer": "ZAR=X-1v-BUYSELL-transformer.joblib",
+            "params": {
+                "C": 100,
+                "class_weight": null,
+                "dual": false,
+                "fit_intercept": true,
+                "intercept_scaling": 1,
+                "l1_ratio": null,
+                "max_iter": 100,
+                "multi_class": "auto",
+                "n_jobs": null,
+                "penalty": "l2",
+                "random_state": null,
+                "solver": "liblinear",
+                "tol": 0.0001,
+                "verbose": 0,
+                "warm_start": false
+            }
         }
     }
 }
