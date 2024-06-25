@@ -1,9 +1,9 @@
 {
     "root": "https://raw.githubusercontent.com/lebyanelm/neural-trained-models/main/models/",
     "models": {
-        "ZAR=X": {
-            "model": "ZAR=X-1v-BUYSELL.joblib",
-            "transformer": "ZAR=X-1v-BUYSELL-transformer.joblib",
+        "BTC-USD": {
+            "model": "BTC-USD-1v-BUYSELL.joblib",
+            "transformer": "BTC-USD-1v-BUYSELL-transformer.joblib",
             "params": {
                 "C": 100,
                 "class_weight": null,
@@ -12,7 +12,7 @@
                 "intercept_scaling": 1,
                 "l1_ratio": null,
                 "max_iter": 100,
-                "multi_class": "auto",
+                "multi_class": "deprecated",
                 "n_jobs": null,
                 "penalty": "l2",
                 "random_state": null,
